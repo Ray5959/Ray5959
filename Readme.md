@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Raysen59</h1>
-<p>Blockchain & Contract Security Reseacher | Solidty Rust Move Lang Bug Bounty Hunter | Beosin Blockchain Security Response Team Ex-lead</p>
+<p>Blockchain & Contract Security Reseacher</p> <p>Solidty Rust Move Lang Bug Bounty Hunter</p>  <p>Beosin Blockchain Security Response Team Ex-lead</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
 <a target="_blank" href="https://www.rust-lang.org/logos/rust-logo-128x128.png" style="display: inline-block;"><img src="https://www.rust-lang.org/logos/rust-logo-128x128.png" alt="Rust" width="42" height="42" /></a>
@@ -10,7 +10,8 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="42" height="42" /></a>
 </p>
 <h2>📫 Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/sen-ray-02845a212" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6" alt="linkedin" /></a></p>
+<p><a target="_blank" href="https://www.linkedin.com/in/sen-ray-02845a212" style="display: inline-block;"><img src="https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white" alt="linkedin" /></a></p>
+<p><a target="_blank" href="mailto:laysen59gmail.com" style="display: inline-block;"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:laysen59" alt="Gmail" /></a></p>
 <h2></h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Raysen&show_icons=true&locale=en" alt="Raysen" /></p>
 <h2></h2>
