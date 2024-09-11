@@ -10,8 +10,8 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="42" height="42" /></a>
 </p>
 <h2>📫 Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/sen-ray-02845a212" style="display: inline-block;"><img src="https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white" alt="linkedin" /></a></p>
-<p><a target="_blank" href="mailto:laysen59gmail.com" style="display: inline-block;"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:laysen59" alt="Gmail" /></a></p>
+<p><a target="_blank" href="https://www.linkedin.com/in/sen-ray-02845a212" style="display: inline-block;"><img src="https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white" alt="linkedin" /></a>
+<a target="_blank" href="mailto:laysen59gmail.com" style="display: inline-block;"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:laysen59" alt="Gmail" /></a></p>
 <h2></h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Raysen&show_icons=true&locale=en" alt="Raysen" /></p>
 <h2></h2>
