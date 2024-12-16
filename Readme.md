@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Raysen</h1>
-<p>Blockchain & Contract Security Reseacher</p> <p>Solidty Rust Move Lang Bug Bounty Hunter</p>  <p>Beosin Blockchain Security Response Team Ex-lead</p>
+<p>Blockchain & Contract Security Reseacher</p> <p>Solidty Rust Move Lang Bug Bounty Hunter</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
 <a target="_blank" href="https://www.rust-lang.org/logos/rust-logo-128x128.png" style="display: inline-block;"><img src="https://www.rust-lang.org/logos/rust-logo-128x128.png" alt="Rust" width="42" height="42" /></a>
