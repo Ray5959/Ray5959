@@ -1,10 +1,6 @@
 <h1>Hi 👋, I'm Raysen</h1>
 <p>Blockchain & Contract Security Reseacher</p> <p>Solidty Rust Move Lang Bug Bounty Hunter</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ray5959&show_icons=true&locale=en" alt="Ray5959" /></p>
-<h2></h2>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ray5959"/></p>
-
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
 <a target="_blank" href="https://www.rust-lang.org/logos/rust-logo-128x128.png" style="display: inline-block;"><img src="https://www.rust-lang.org/logos/rust-logo-128x128.png" alt="Rust" width="42" height="42" /></a>
@@ -17,6 +13,6 @@
 <h2>📫 Where to find me</h2>
 <a target="_blank" href="mailto:laysen59gmail.com" style="display: inline-block;"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:laysen59" alt="Gmail" /></a></p>
 <h2></h2>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Raysen&show_icons=true&locale=en" alt="Raysen" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ray5959&show_icons=true&locale=en" alt="Ray5959" /></p>
 <h2></h2>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ray5959"/></p>
