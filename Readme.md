@@ -1,5 +1,11 @@
 <h1>Hi 👋, I'm Raysen</h1>
 <p>Blockchain & Contract Security Reseacher</p> <p>Solidty Rust Move Lang Bug Bounty Hunter</p>
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ray5959&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ray5959&layout=compact&langs_count=7&theme=dark"/>
+</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
 <a target="_blank" href="https://www.rust-lang.org/logos/rust-logo-128x128.png" style="display: inline-block;"><img src="https://www.rust-lang.org/logos/rust-logo-128x128.png" alt="Rust" width="42" height="42" /></a>
